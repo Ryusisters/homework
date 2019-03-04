@@ -1,0 +1,36 @@
+.top{
+    background:#585858;
+    height:300px;
+    width:900px;
+    color:#ffffff;
+    text-align:center;
+    font-size: 30;
+    }
+
+.inner{
+    height:500px;
+    width:900px;
+    display:flex;
+    }
+.inner1{
+    background:#D8D8D8;
+    height:500px;
+    width:300px;
+    text-decoration:underline;
+    }
+.inner2{
+    background:#FAFAFA;
+    height:500px;
+    width:600px;
+    }
+
+.bottom{
+    background:#585858;
+    height:100px;
+    width:900px;
+    display:flex;
+    color:#ffffff;
+    text-align:center;
+    }
+    
+#box { text-align: center; }
